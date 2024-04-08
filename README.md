@@ -14,3 +14,11 @@ source venv/bin/activate
 python3 -m pip install -r requirements.txt
 brew install python-tk
 ```
+
+## Screenshots
+
+### Main Window
+![Main Window](./media/foto1.png)
+
+### Encode Window
+![Encode Window](./media/foto2.png)
