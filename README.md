@@ -9,5 +9,8 @@ python3 main.py
 ```bash
 git clone https://github.com/nchgroup/gui-encoder
 cd gui-encoder
-bash install.sh
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+brew install python-tk
 ```
